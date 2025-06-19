@@ -22,6 +22,18 @@ El desarrollo de esta aplicación se realizó utilizando Cursor, un IDE potencia
 ### Pantallas
 
 Pantalla de Home
+![Sin título](https://github.com/user-attachments/assets/8368209b-412b-4e7c-a852-31b694c639c0)
+
+Pantalla de menu lateral 
+![Sin título-1](https://github.com/user-attachments/assets/fb372436-f3a6-46ff-b9e3-4deaa0f24895)
+
+Pantalla de chatbot
+![Sin título](https://github.com/user-attachments/assets/ad62bd1a-f61a-4dac-93ff-1d0b1d1eb7a7)
+
+Pantalla de notificaciones 
+![Sin título-1](https://github.com/user-attachments/assets/e5fafb97-e2d9-4c1c-904d-91c828d215de)
+
+
 
 ## 🛠️ Tecnologías Utilizadas
 - React Native
@@ -34,7 +46,7 @@ Pantalla de Home
 
 1. Clonar el repositorio:
 ```bash
-git clone 
+git clone https://github.com/lunakenya/Home-cursor-Luna-Kenya.git
 ```
 
 2. Instalar dependencias:
