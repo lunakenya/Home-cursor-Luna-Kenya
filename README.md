@@ -21,6 +21,7 @@ El desarrollo de esta aplicación se realizó utilizando Cursor, un IDE potencia
 
 ### Pantallas
 
+<div align="center">
 <table>
   <tr>
     <td><strong>Pantalla de Home</strong></td>
@@ -39,7 +40,7 @@ El desarrollo de esta aplicación se realizó utilizando Cursor, un IDE potencia
     <td><img src="https://github.com/user-attachments/assets/e5fafb97-e2d9-4c1c-904d-91c828d215de" width="250"/></td>
   </tr>
 </table>
-
+</div>
 
 ## 🛠️ Tecnologías Utilizadas
 - React Native
